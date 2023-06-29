@@ -49,9 +49,8 @@ header {
 
 
 .info__title {
-    width: 3;
     margin: 200px auto 100px auto;
-    font-family: Playfair Display;
+    font-family: "Playfair Display";
     font-size: 48px;
     text-align: center;
     color: #D4C17F;
@@ -253,6 +252,7 @@ iframe{
     height: 650px;
     display: block;
     margin: auto;
+    border: 0px;
 }
 
 .container__map{
@@ -300,11 +300,9 @@ margin-top: 180px;
     line-height: 16px;
     text-align: center;
     color: #E7E7E7;
-    margin-right: 2;
  }
 
  .form__userinfo{
-    margin-right: 1;
     border: 0;
     width: 255px;
  }
